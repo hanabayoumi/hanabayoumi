@@ -1,16 +1,14 @@
-## Hi there 👋
+## ꨄ︎ Hi there ꨄ︎
 
-<!--
-**hanabayoumi/hanabayoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❀ I'm Hana, a freshman ITCS student at Nile University.
 
-Here are some ideas to get you started:
+❀ I code in Python and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❀ I am experienced in developing modular and robust code in C++ and Python, including dynamic memory allocation, file I/O management and backend system logic implementation.
+
+❀ What I built so far:
+- **Group projects:**
+  - ⇢ Exam creator (Python)
+  - ⇢ Quiz Game System (C++ and OOP)
+- **Solo projects:**
+  - ⇢ Library Management System (C++)
